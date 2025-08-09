@@ -14,7 +14,7 @@ BANNER = r"""
  | |___| | | | (_| | |_| |_| |  __/ | |  
   \____|_| |_|\__,_|\__|\____|_|    |_|  
 
-        Made by SpiritePVP
+        Made by add_your_name_here_skids
 """
 
 def main_menu():
@@ -72,4 +72,5 @@ def main():
             print("❌ Invalid choice. Please enter 1, 2, or 3.\n")
 
 if __name__ == "__main__":
+
     main()
