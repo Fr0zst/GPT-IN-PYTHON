@@ -14,3 +14,6 @@ pyinstaller --onefile --noconsole "file_name.py"
 Then it should run smoothly BUT DONT FORGET TO ADD THE API KEY
 
 Then run it if it has any errors, just msg or look it up, either way it should be solved
+
+
+Simple but easy
