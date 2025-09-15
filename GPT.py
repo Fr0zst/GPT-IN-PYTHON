@@ -1,3 +1,6 @@
+# © 2025 Fr0zst. All rights reserved. 
+# Unauthorized copying prohibited.
+
 import os
 import sys
 import textwrap
@@ -74,3 +77,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
