@@ -1,3 +1,6 @@
+![Badge](https://img.shields.io/badge/PythonDiddler-blue)
+
+
 # Make sure your OPENAI_API_KEY environment variable is set
 
 ok, so since it's probably Skids looking at this, just read this, okay?
