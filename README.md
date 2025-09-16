@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/PythonDiddler-blue)
+[![Badge](https://img.shields.io/badge/PythonDiddler-blue)](https://github.com/Fr0zst)
 
 
 # Make sure your OPENAI_API_KEY environment variable is set
